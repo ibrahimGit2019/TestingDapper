@@ -1,0 +1,9 @@
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\obj\Debug\TestingDapper.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\bin\Debug\TestingDapper.exe.config
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\bin\Debug\TestingDapper.exe
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\bin\Debug\TestingDapper.pdb
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\bin\Debug\Dapper.dll
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\bin\Debug\Dapper.xml
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\obj\Debug\TestingDapper.csproj.CopyComplete
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\obj\Debug\TestingDapper.exe
+C:\Users\Leo\source\repos\TestingDapper\TestingDapper\obj\Debug\TestingDapper.pdb
